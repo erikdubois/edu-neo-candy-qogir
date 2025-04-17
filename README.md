@@ -1,4 +1,4 @@
-# edu-candy-beauty-Qogir
+# edu-neo-candy-Qogir
 
 Learn, have fun and enjoy.
 
