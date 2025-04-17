@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=edu-candy-qogir
+Name=edu-neo-candy-qogir
 Comment=An icon theme for Linux desktops. Mix of the following icon sets : Super Flat Remix, Ultra Flat Icons, Yltra Flat Icons and Numix icons
 Inherits=neo-candy-icons,Surfn,Sardi,Numix-Circle,Numix,Papirus,Moka,breeze,gnome,hicolor
 Example=x-directory-normal
