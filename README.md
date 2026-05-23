@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-neo-candy-qogir
 
 Qogir-flavoured Neo-Candy icon theme — colourful icons that pair with the [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) design family. Part of the `~/EDU/` Neo-Candy series.
