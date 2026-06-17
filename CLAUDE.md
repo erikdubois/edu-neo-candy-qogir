@@ -1,4 +1,4 @@
-# CLAUDE.md — edu-neo-candy-qogir
+# CLAUDE.md — kiro-neo-candy-qogir
 
 ## Project overview
 
